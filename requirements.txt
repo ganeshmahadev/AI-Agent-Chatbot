@@ -1,0 +1,8 @@
+langchain_groq
+langchain_community
+langchain_openai
+langgraph
+pydantic
+fastapi
+uvicorn
+streamlit
